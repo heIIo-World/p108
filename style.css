@@ -1,0 +1,35 @@
+body {
+    background-color:lightyellow;
+}
+
+#header_div {
+    color:goldenrod;
+    font-family: sans-serif;
+    font-weight:800;
+}
+
+#headerH3 {
+    color:gold;
+}
+
+h1 {
+    font-weight:900;
+    font-size: 64px;
+}
+#main_div {
+    margin-top:1px;
+    letter-spacing: 0.1px;
+}
+
+button {
+    font-family:sans-serif;
+    width:90px;
+    font-weight:900;
+}
+
+.copy_right_footer {
+    color:gold;
+    width:1300;
+    text-align: center;
+    font-size:25px;;
+    height:200px; }
